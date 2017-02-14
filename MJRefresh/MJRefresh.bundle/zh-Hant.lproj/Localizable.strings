@@ -6,11 +6,6 @@
 "MJRefreshAutoFooterRefreshingText" = "正在加載更多的數據...";
 "MJRefreshAutoFooterNoMoreDataText" = "已經全部加載完畢";
 
-"MJRefreshBackFooterIdleText" = "上拉可以加載更多";
-"MJRefreshBackFooterPullingText" = "鬆開立即加載更多";
-"MJRefreshBackFooterRefreshingText" = "正在加載更多的數據...";
-"MJRefreshBackFooterNoMoreDataText" = "已經全部加載完畢";
-
 "MJRefreshHeaderLastTimeText" = "最後更新：";
 "MJRefreshHeaderDateTodayText" = "今天";
 "MJRefreshHeaderNoneLastDateText" = "無記錄";
